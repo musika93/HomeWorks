@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>HomeWorks.Lesson_2.Level_2_Task_6</StartupObject>
+    <StartupObject>HomeWorks.Lesson_2.Level_1_Task_5</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
