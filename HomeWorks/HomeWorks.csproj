@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>HomeWorks.Lesson_2.Level_1_Task_5</StartupObject>
+    <StartupObject>HomeWorks.Lesson_2.RandomGeneratorDemo</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,8 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Lesson_2\Level_1-Task_5.cs" />
     <Compile Include="Lesson_2\Level_2-Task_6.cs" />
+    <Compile Include="Lesson_2\RandomGeneratorDemo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
